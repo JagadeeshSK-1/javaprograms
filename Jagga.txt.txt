@@ -1,0 +1,7 @@
+These are Jagadeesh programs.
+
+I cloned useing git-bash [git version control]
+
+1) Git clone. 
+2) Git branch.
+3) Git checkout <Ashok> - Switched the branch from 'Main' to 'Ashok'
