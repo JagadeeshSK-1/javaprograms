@@ -1,6 +1,5 @@
 //The area of rectangle can be found by multiplying the length of the rectangle by the width.
 
-package newbeginning;
 
 public class AreaofRectangle {
 
